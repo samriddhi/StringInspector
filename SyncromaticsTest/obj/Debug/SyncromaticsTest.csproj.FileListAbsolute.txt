@@ -1,0 +1,6 @@
+c:\users\samriddhi\documents\visual studio 2013\Projects\SyncromaticsTest\SyncromaticsTest\bin\Debug\SyncromaticsTest.exe.config
+c:\users\samriddhi\documents\visual studio 2013\Projects\SyncromaticsTest\SyncromaticsTest\bin\Debug\SyncromaticsTest.exe
+c:\users\samriddhi\documents\visual studio 2013\Projects\SyncromaticsTest\SyncromaticsTest\bin\Debug\SyncromaticsTest.pdb
+c:\users\samriddhi\documents\visual studio 2013\Projects\SyncromaticsTest\SyncromaticsTest\obj\Debug\SyncromaticsTest.csprojResolveAssemblyReference.cache
+c:\users\samriddhi\documents\visual studio 2013\Projects\SyncromaticsTest\SyncromaticsTest\obj\Debug\SyncromaticsTest.exe
+c:\users\samriddhi\documents\visual studio 2013\Projects\SyncromaticsTest\SyncromaticsTest\obj\Debug\SyncromaticsTest.pdb
